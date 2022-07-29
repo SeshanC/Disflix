@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-image: url("images/bg.jpeg");
+}
+
+.homebtn{
+    position: fixed;
+}
+
+/*Inception*/
+.inception_poster{
+    position: absolute;
+    top: 115%;
+    left: 8px;
+    width: 25%;
+}
+
+/**The Gray Man**/
+.thegrayman_poster{
+    position: absolute;
+    top: 115%;
+    left: 37%;
+    width: 25%;
+}
+
+/*John Wick 1*/
+.johnwickoneposter{
+    position: absolute;
+    top: 115%;
+    right: 1%;
+    width: 25%;
+}
